@@ -1,3 +1,3 @@
 hello Git!
-hz modify
+hz modify2
 modify2
